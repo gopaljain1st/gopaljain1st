@@ -1,10 +1,15 @@
 # Hi, I'm Gopal Jain 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/gopaljain1st/gopaljain1st/master/developer.png" alt="banner that says Gopal Jain - Software Engineer, Problem Solver, Android Developer, Backend Devloper, API Developer">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
+I'm a student of B.Tech(CSE) pre-final year. After a long search, I have found my love to be in Competitive Coding. I spend my free time on Hackerrank to enhance my " Problem Solving " skill. There are lots of platforms, but I love Hackerrank most.
+I'm Skilled in these languages C, C++, Core Java, JavaScript, HTML, and CSS
+I am quite good at Data Structure and Algorithms. I always try to reduce my code "Complexity" and max of the time I achieve it.
+I am a little bit good in DBMS and i always focused on it. I love to learn new technologies and always searching for new opportunities to express my ideas.
+I am a very kind person. I always believe in karma and I love to help other peoples. I always work hard with full dedication to achieve my goals and I get success up to extend. 
 
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Portfolio <a href="gopaljain1st.github.io">Gopal Jain</a> 📹 ✍🏾
+- 6 Star Holder at Hacker Rank <a href="https://hackerrank.com/jaingopal09">Gopal Jain In Hacker Rank</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/gopaljain1st/">LinkedIn</a> 💼
