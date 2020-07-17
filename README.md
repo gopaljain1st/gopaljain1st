@@ -10,6 +10,6 @@ I am a very kind person. I always believe in karma and I love to help other peop
 
 
 ## Find me around the web 🌎:
-- Portfolio <a href="gopaljain1st.github.io">Gopal Jain</a> 📹 ✍🏾
+- Portfolio <a href="https://gopaljain1st.github.io">Gopal Jain</a>
 - 6 Star Holder at Hacker Rank <a href="https://hackerrank.com/jaingopal09">Gopal Jain In Hacker Rank</a> 
-- Sharing updates on <a href="https://www.linkedin.com/in/gopaljain1st/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/gopaljain1st/">LinkedIn</a> 
