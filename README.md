@@ -1,4 +1,4 @@
-# Hi, I'm Gopal Jain 👋🏾 👩🏾‍💻
+# Hi, I'm Gopal Jain 👋🏾‍💻
 
 <img src="https://raw.githubusercontent.com/gopaljain1st/gopaljain1st/master/developer.png" alt="banner that says Gopal Jain - Software Engineer, Problem Solver, Android Developer, Backend Devloper, API Developer">
 
