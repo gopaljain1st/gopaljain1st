@@ -1,7 +1,7 @@
 # Hi, I'm Gopal Jain 👋🏾‍💻
 
 <img src="https://raw.githubusercontent.com/gopaljain1st/gopaljain1st/master/developer.png" alt="banner that says Gopal Jain - Software Engineer, Problem Solver, Android Developer, Backend Devloper, API Developer">
-### Languages and Tools :
+## Languages and Tools :
 
 <p align="left">
   <img src="https://icongr.am/devicon/c-original.svg?size=50&color=534b4b" alt="C" width="50" height="50" /> 
@@ -18,6 +18,8 @@ I'm Skilled in these languages C, C++, Core Java, JavaScript, HTML, and CSS
 I am quite good at Data Structure and Algorithms. I always try to reduce my code "Complexity" and max of the time I achieve it.
 I am a little bit good in DBMS and i always focused on it. I love to learn new technologies and always searching for new opportunities to express my ideas.
 I am a very kind person. I always believe in karma and I love to help other peoples. I always work hard with full dedication to achieve my goals and I get success up to extend. 
+
+<img align="left" alt="Gopal Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gopaljain1st&show_icons=true&hide_border=true" />
 
 
 ## Find me around the web 🌎:
