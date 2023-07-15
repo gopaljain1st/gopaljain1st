@@ -13,12 +13,15 @@
   <img src="https://icongr.am/devicon/git-original.svg?size=50&color=534b4b" alt="Git" width="50" height="50"/>
 </p>
 
-I'm a student of B.Tech(CSE) pre-final year. After a long search, I have found my love to be in Competitive Coding. I spend my free time on Hackerrank to enhance my " Problem Solving " skill. There are lots of platforms, but I love Hackerrank most.
-I'm Skilled in these languages C, C++, Core Java, JavaScript, HTML, and CSS
-I am quite good at Data Structure and Algorithms. I always try to reduce my code "Complexity" and max of the time I achieve it.
-I am a little bit good in DBMS and i always focused on it. I love to learn new technologies and always searching for new opportunities to express my ideas.
-I am a very kind person. I always believe in karma and I love to help other peoples. I always work hard with full dedication to achieve my goals and I get success up to extend. 
+Highly motivated and experienced Software Engineer with over 2.5 Years of experience in developing and deploying Java applications. Skilled in object-oriented programming and database design. Excellent problem-solving skills and a passion for creating innovative solutions.
 
+My Technical Proficiencies Include: 
+
+Programming Languages: Java, C++, C
+Databases: MySQL, MongoDB, Solr
+Backend Stack: JSP, Servlet, Spring MVC, Spring Boot, Maven, Hibernate, MicroServices, Solr, Redis, Spring AOP, SEO Webmaster, Google Analytics, Apache Tomcat, RabbitMQ, Spring Security, Docker, Jenkins, AWS, Design Patterns, REST APIs etc
+Familiar: Data Structure, Algorithm, OOPS, Problem Solving
+Software Tools: Android Studio, IntelliJ, Robo3T, Postman, Dbeaver, Subline Text
 <img align="left" alt="Gopal Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gopaljain1st&show_icons=true&hide_border=true" />
 
 
