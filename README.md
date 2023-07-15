@@ -22,8 +22,6 @@ Databases: MySQL, MongoDB, Solr
 Backend Stack: JSP, Servlet, Spring MVC, Spring Boot, Maven, Hibernate, MicroServices, Solr, Redis, Spring AOP, SEO Webmaster, Google Analytics, Apache Tomcat, RabbitMQ, Spring Security, Docker, Jenkins, AWS, Design Patterns, REST APIs etc
 Familiar: Data Structure, Algorithm, OOPS, Problem Solving
 Software Tools: Android Studio, IntelliJ, Robo3T, Postman, Dbeaver, Subline Text
-<img align="left" alt="Gopal Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gopaljain1st&show_icons=true&hide_border=true" />
-
 
 ## Find me around the web 🌎:
 - Portfolio <a href="https://gopaljain1st.github.io">Gopal Jain</a>
