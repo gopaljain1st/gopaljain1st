@@ -1,91 +1,58 @@
-Hi, I'm Gopal Jain 👋🏾🚀
+<h1 align="center">Hi 👋, I'm Gopal Jain</h1>
+<h3 align="center">4+ yrs Java Backend Engineer | 6★ HackerRank | 95k+ LinkedIn Impressions/mo</h3>
 
-Software Engineer | Java Backend Developer | Problem Solver
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopaljain1st&label=Profile%20views" alt="views"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot"/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Practitioner-FF9900?logo=amazonaws"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/gopaljain1st/gopaljain1st/master/developer.png" alt="banner" />
-👨‍💻 About Me
 
-Experienced and highly motivated Java Backend Developer with 4+ years of hands-on experience building scalable, secure, and high-performance backend systems.
-I love transforming complex challenges into simple, elegant solutions while writing clean, maintainable, and robust code.
+``` Java
+ class Gopal {
+  String role       = "Backend Engineer";
+  int experience    = 4.5;           // years
+  String focus      = "Micro-services | Low-latency | High-scale";
+  String languages  = "Java, C++, C";
+  String databases  = "MySQL | MongoDB | Solr | Redis";
+  String tools      = "Docker | Jenkins | Kafka | RabbitMQ | AWS";
+} 
+```
+🚀 Impact I’ve shipped
+
+| Product         | Tech                        | Metric                          |
+| --------------- | --------------------------- | ------------------------------- |
+| Payment gateway | Spring Boot, Kafka, Redis   | ↓ 42 % latency, 99.99 % uptime  |
+| Search service  | Solr, AWS ECS               | 5 M docs indexed, < 50 ms query |
+| CMS platform    | Micro-services, JWT, OAuth2 | 120 k DAU, 0 critical vulns     |
+
+🔥 GitHub streak
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaljain1st&theme=dark" alt="streak"/>
+</p>
+
+🛠 Tech stack
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="views"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="views"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white"/>
+</p>
 
 🧠 Core Strengths
 
-⚙️ Microservices Architecture
-
-🚀 High-Performance REST APIs
-
-📈 System Scalability & Optimization
-
-🧩 Clean Architecture & Design Patterns
-
-🔐 Backend Security (Spring Security, JWT)
-
-🔁 DevOps & CI/CD Pipelines
-
-🤝 Problem Solving & DSA
-
-🛠️ Tech Stack
-Languages
-<p> <img src="https://icongr.am/devicon/java-original.svg?size=50" width="50" /> <img src="https://icongr.am/devicon/cplusplus-original.svg?size=50" width="50"/> <img src="https://icongr.am/devicon/c-original.svg?size=50" width="50"/> </p>
-Backend & Frameworks
-
-Spring Boot, Spring MVC, Spring Security
-
-Hibernate, JSP, Servlets
-
-Maven, Microservices, AOP, REST APIs
-
-Databases & Search
-
-MySQL, MongoDB
-
-Solr, Elasticsearch
-
-Messaging & Workflow
-
-Kafka
-
-RabbitMQ
-
-Flowable
-
-DevOps & Tools
-
-Docker, Jenkins, AWS
-
-Kibana, Redis
-
-Apache Tomcat
-
-Software Tools
-
-IntelliJ IDEA
-
-Android Studio
-
-Postman
-
-DBeaver, Robo3T
-
-Sublime Text
+⚙️ Microservices Architecture | 🚀 High-Performance REST APIs | 📈 System Scalability & Optimization | 🧩 Clean Architecture & Design Patterns | 🔐 Backend Security (Spring Security, JWT) | 🔁 DevOps & CI/CD Pipelines | 🤝 Problem Solving & DSA
 
 🌱 Currently Learning
 
-Advanced Kafka & Stream Processing
-
-High-scalability Distributed Architecture
-
-Complete Microservices ecosystem (Gateway, Discovery, Logging, Tracing)
+Advanced Kafka & Stream Processing | High-scalability Distributed Architecture | Complete Microservices ecosystem (Gateway, Discovery, Logging, Tracing)
 
 🚀 My Developer Values
 
-Write clean & readable code
-
-Think scalability first
-
-Build products that create real impact
-
-Always improve through learning & consistency
+Write clean & readable code | Think scalability first | Build products that create real impact | Always improve through learning & consistency
 
 🌍 Find Me Around the Web
 
